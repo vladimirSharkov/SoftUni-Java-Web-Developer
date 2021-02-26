@@ -1,38 +1,26 @@
-async function getRecipes() {
-    const response = await fetch(' http://localhost:3030/jsonstore/cookbook/recipes');
-    const recipes = response.json();
-
-    return Object.values(recipes);
-}
-
-async function getRecipesById(id) {
-    const response=  await fetch('http://localhost:3030/jsonstore/cookbook/details/'+id)
-    const recipe = response.json();
-
-    return recipe;
-}
-
-function createRecipePreview(recipe) {
-    const result = e('article',{className:'preview'},
-        e('div',{className:'title'},e('h2',{},recipe.name)),
-        e('div',{className:'small'},e('img',{src:recipe.img})));
-
-    return result;
-}
-
-window.addEventListener('load',async ()=>{
+function getRecipeList() {
+    const url = 'http://localhost:3030/jsonstore/cookbook/recipes';
     const main = document.querySelector('main');
 
-    const recipes = await getRecipes();
-    const cards = recipes.map(createRecipePreview);
+    fetch(url)
+        .then(response => response.json())
+        .then(recipes => {
+            main.innerHTML = '';
+            Object.values(recipes).forEach(r => {
+                const result = e('article', {className: 'preview'},
+                    e('div', {className: 'title'}, e('h2', {}, r.name)),
+                    e('div', {className: 'small'}, e('img', {src: r.img}))
+                );
+                main.appendChild(result)
+            });
+        });
+}
 
-    main.textContent = '';
-    cards.forEach(c=>main.appendChild(c))
+window.addEventListener('load', () => {
+    getRecipeList()
 })
 
-
-
-export function e(type, attributes, ...content) {
+ function e(type, attributes, ...content) {
     const result = document.createElement(type);
 
     for (let [attr, value] of Object.entries(attributes || {})) {
