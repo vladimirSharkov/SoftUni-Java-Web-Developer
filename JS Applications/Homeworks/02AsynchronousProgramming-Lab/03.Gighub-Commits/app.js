@@ -8,6 +8,7 @@ function loadCommits() {
         if (!response.ok) {
             throw response;
         }
+
         return result.json()
     }).then(date => {
         [...date].forEach(item => {
