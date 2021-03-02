@@ -1,6 +1,7 @@
 function lockedProfile() {
     const url = 'http://localhost:3030/jsonstore/advanced/profiles';
     const main = document.querySelector('main');
+
     window.addEventListener('load', getProfile)
 
 

@@ -2,7 +2,6 @@ function toggle() {
     let btn = document.getElementsByClassName('button')[0];
 
 
-    console.log(btn)
     let div = document.getElementById('extra');
     if (btn.textContent === 'More') {
        div.style.display= 'block'
