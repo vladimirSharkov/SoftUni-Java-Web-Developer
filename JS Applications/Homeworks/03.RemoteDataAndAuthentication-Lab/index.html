@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+<form id="articleForm" method="post" action="http://localhost:3030/jsonstore/advanced/articles/details">
+    <input type="text" name="title">
+    <textarea name="content"></textarea>
+    <input type="submit" value="Publish article">
+</form>
+<script>
+
+    let form = document.getElementById('articleForm');
+    form.addEventListener('submit', event => {
+        event.preventDefault();
+
+        const title = form.querySelector('[name="title"]').value;
+        const content = form.querySelector('[name="content"]').value;
+        const article = {title, content}
+        postData(article)
+    })
+
+
+    async function getData() {
+        const response = await fetch('http://localhost:3030/jsonstore/advanced/articles/details');
+        const data = await response.json();
+    }
+
+    async function getDataById(id) {
+        const response = await fetch('http://localhost:3030/jsonstore/advanced/articles/details/' + id);
+        const data = await response.json();
+    }
+
+    async function postData(data) {
+
+        const response = await fetch('http://localhost:3030/jsonstore/advanced/articles/details', {
+            method: 'post',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(data)
+        })
+
+        const result = await response.json();
+    }
+
+    async function updateData(id, data) {
+        const response = await fetch('http://localhost:3030/jsonstore/advanced/articles/details/' + id, {
+            method: 'put',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(data)
+        })
+
+        const result = await response.json();
+    }
+
+    async function deleteData(id) {
+        const response = await fetch('http://localhost:3030/jsonstore/advanced/articles/details/' + id, {
+            method: 'delete'
+        })
+    }
+</script>
+</body>
+</html>
