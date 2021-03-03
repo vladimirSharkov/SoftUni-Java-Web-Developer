@@ -9,9 +9,21 @@ function attachEvents() {
         document.getElementById('person').value = '';
         document.getElementById('phone').value = '';
     })
+
 }
 
 attachEvents();
+
+async function request(url, options) {
+    const response = await fetch(url, options);
+    if (!response.ok) {
+        const error = await response.json();
+        alert(error.message);
+        throw new Error(error.message);
+    }
+    const data = await response.json();
+    return data;
+}
 
 
 async function getPhonebook() {
@@ -24,6 +36,11 @@ async function getPhonebook() {
         li.textContent = `${p.person}:${p.phone}`;
         const btn = document.createElement('button');
         btn.textContent = 'Delete'
+        btn.addEventListener('click',(ev)=>{
+            let target = ev.target.parentNode;
+            target.remove()
+            deletePhone(p._id)
+        })
         li.appendChild(btn)
         document.getElementById('phonebook').appendChild(li)
     })
@@ -35,5 +52,12 @@ async function postPhonebook(phone) {
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify(phone)
     })
-    const data = await response.json();
+}
+
+async function deletePhone(id) {
+    const result = await request('http://localhost:3030/jsonstore/phonebook'+id,{
+        method:'delete'
+    });
+
+    return result
 }
