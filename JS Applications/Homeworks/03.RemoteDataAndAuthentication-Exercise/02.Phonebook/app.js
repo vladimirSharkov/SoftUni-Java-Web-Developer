@@ -9,6 +9,7 @@ function attachEvents() {
         document.getElementById('person').value = '';
         document.getElementById('phone').value = '';
     })
+    document.querySelector('ul').addEventListener('click', phonebookDelete)
 
 }
 
@@ -33,14 +34,10 @@ async function getPhonebook() {
 
     const phoneNumber = Object.values(data).map(p => {
         const li = document.createElement('li');
+        li.setAttribute('data-id', p._id)
         li.textContent = `${p.person}:${p.phone}`;
         const btn = document.createElement('button');
         btn.textContent = 'Delete'
-        btn.addEventListener('click',(ev)=>{
-            let target = ev.target.parentNode;
-            target.remove()
-            deletePhone(p._id)
-        })
         li.appendChild(btn)
         document.getElementById('phonebook').appendChild(li)
     })
@@ -55,9 +52,17 @@ async function postPhonebook(phone) {
 }
 
 async function deletePhone(id) {
-    const result = await request('http://localhost:3030/jsonstore/phonebook'+id,{
-        method:'delete'
+    const result = await request('http://localhost:3030/jsonstore/phonebook/' + id, {
+        method: 'delete'
     });
+    getPhonebook()
 
-    return result
+}
+
+function phonebookDelete(event) {
+    if (event.target.textContent === 'Delete') {
+        let id = event.target.parentNode.dataset.id;
+        deletePhone(id)
+
+    }
 }

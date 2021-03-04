@@ -10,8 +10,11 @@ function attachEvents() {
 
         ev.target.reset()
         postBook({title, author})
+        getAllBooks()
     })
-    document.querySelector('table').addEventListener('click', handleTable)
+    document.querySelector('table').addEventListener('click', handleTable);
+
+    document.getElementById('editForm').addEventListener('submit',updateBook)
 }
 
 attachEvents();
@@ -68,20 +71,30 @@ async function postBook(book) {
     })
 }
 
-async function updateBook(id, book) {
+async function updateBook(event) {
+    event.preventDefault();
+    const formData = new FormData(event.target);
+    const id = formData.get('id');
+    const title = formData.get('title');
+    const author = formData.get('author')
     const result = await request('http://localhost:3030/jsonstore/collections/books/' + id, {
         method: 'put',
         headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify(book)
+        body: JSON.stringify({title,author})
     })
-    return result;
+
+    document.getElementById('creatForm').style.display = 'block'
+    document.getElementById('editForm').style.display = 'none'
+    event.target.reset()
+    getAllBooks()
+
 }
 
 async function deleteBook(id) {
     const result = await request('http://localhost:3030/jsonstore/collections/books/' + id, {
         method: 'delete'
     })
-    return result;
+    getAllBooks()
 }
 
 function handleTable(event) {
@@ -92,10 +105,15 @@ function handleTable(event) {
         const bookId = event.target.parentNode.parentNode.dataset.id;
         loadBookForEditing(bookId);
     } else if (event.target.className === 'deleteBtn') {
-
+        const bookId = event.target.parentNode.parentNode.dataset.id;
+        deleteBook(bookId)
     }
 }
 
 async function loadBookForEditing(id) {
     const book = await request('http://localhost:3030/jsonstore/collections/books/' + id);
+
+    document.querySelector('#editForm [name="title"]').value = book.title;
+    document.querySelector('#editForm [name="author"]').value = book.author;
+    document.querySelector('#editForm [name="id"]').value = id;
 }
