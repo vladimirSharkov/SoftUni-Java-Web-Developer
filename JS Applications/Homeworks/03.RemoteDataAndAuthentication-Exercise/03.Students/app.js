@@ -6,12 +6,18 @@ function attachEvents() {
         event.preventDefault();
         console.log(event.target.parentNode)
         const formData = new FormData(event.target);
+        if (formData.get('firstName')===''||formData.get('lastName')===''||
+            formData.get('facultyNumber')===''||formData.get('grade')===''){
+           return  alert('Fields can\'t by empty')
+        }
+
         const student={
             firstName:formData.get('firstName'),
             lastName:formData.get('lastName'),
             facultyNumber:formData.get('facultyNumber'),
             grade:formData.get('grade')
         }
+
         postStudent(student);
         document.querySelector('#results').innerHTML='';
         getStudents();
