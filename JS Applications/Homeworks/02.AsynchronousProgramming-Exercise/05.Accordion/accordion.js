@@ -2,7 +2,6 @@ function solution() {
     const main = document.querySelector('#main');
     window.addEventListener('load', getTitles);
 
-
     async function getArticleById() {
         let par = document.querySelector('button').id;
         getTitles(par)

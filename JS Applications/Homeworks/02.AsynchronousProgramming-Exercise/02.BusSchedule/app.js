@@ -11,7 +11,6 @@ function solve() {
         const url = 'http://localhost:3030/jsonstore/bus/schedule/' + stop.next;
         const response = await fetch(url);
         const date = await response.json();
-        console.log(date)
 
         stop = date;
 
@@ -25,7 +24,6 @@ function solve() {
         const response = await fetch(url);
         const date = await response.json();
 
-        console.log(date)
         banner.textContent = `Arriving at ${stop.name}`
         departBtn.disabled = false;
         arriveBtn.disabled = true;
