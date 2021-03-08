@@ -1,42 +1,40 @@
-import {setupCatalog, showCatalog} from './catalog.js'
-import {setupLogin, showLogin} from './login.js'
+import {showCatalog, setupCatalog} from './catalog.js'
+import {setupLogin, showLogin} from "./login.js";
 
 main()
 
 function main() {
-    setUserNav()
+    setUserNav();
 
     const main = document.querySelector('main');
     const catalogSection = document.getElementById('catalogSection');
     const loginSection = document.getElementById('loginSection');
+
+    setupCatalog(main, catalogSection);
+    setupLogin(main, loginSection,()=>{setUserNav();showCatalog()})
 
     const links = {
         'catalogLink': showCatalog,
         'loginLink': showLogin
     }
 
-    setupCatalog(main, catalogSection);
-    setupLogin(main, loginSection, () => {
-        setUserNav();
-        showCatalog()
-    });
+    setupNavigation();
 
-    setupNavigation()
     showCatalog();
+
 
     function setupNavigation() {
         document.querySelector('nav').addEventListener('click', (event) => {
             if (event.target.tagName === 'A') {
                 const view = links[event.target.id]
+                console.log(event.target.id)
                 if (typeof view === 'function') {
                     event.preventDefault();
                     view();
                 }
             }
         })
-
     }
-
 }
 
 function setUserNav() {
@@ -64,13 +62,5 @@ async function logout() {
         console.error(await response.json());
     }
 }
-
-
-
-
-
-
-
-
 
 
