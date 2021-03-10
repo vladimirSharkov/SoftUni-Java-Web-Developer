@@ -1,10 +1,4 @@
-const form = document.querySelector('form');
-
-form.addEventListener('submit', (ev => {
-    ev.preventDefault();
-    const formData = new FormData(ev.target);
-    onSubmit([...formData.entries()].reduce((p, [k, v]) => Object.assign(p, { [k]: v }), {}));
-}));
+import {showCatalog} from './catalog.js'
 
 async function onSubmit(data) {
     const body = JSON.stringify({
@@ -28,13 +22,38 @@ async function onSubmit(data) {
             },
             body
         });
-        
-        if (response.status == 200) {
-            window.location.pathname = 'index.html';
+
+        if (response.status === 200) {
+           showCatalog();
         } else {
             throw new Error(await response.json());
         }
     } catch (err) {
         console.error(err.message);
     }
+}
+
+let main;
+let section;
+let setActiveNav
+
+export function setupCreate(mainTarget, sectionTarget, setActiveNavCb) {
+    main = mainTarget;
+    section = sectionTarget;
+    setActiveNav = setActiveNavCb;
+
+
+    const form = section.querySelector('form');
+
+    form.addEventListener('submit', (ev => {
+        ev.preventDefault();
+        const formData = new FormData(ev.target);
+        onSubmit([...formData.entries()].reduce((p, [k, v]) => Object.assign(p, {[k]: v}), {}));
+    }));
+}
+
+export  function showCreate() {
+    setActiveNav('createLink')
+    main.innerHTML = '';
+    main.appendChild(section);
 }

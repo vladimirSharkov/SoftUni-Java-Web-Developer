@@ -1,13 +1,8 @@
-const form = document.querySelector('form');
+import {showCatalog} from "./catalog.js";
 
-form.addEventListener('submit', (ev => {
-    ev.preventDefault();
-    const formData = new FormData(ev.target);
-    onSubmit([...formData.entries()].reduce((p, [k, v]) => Object.assign(p, { [k]: v }), {}));
-}));
 
 async function onSubmit(data) {
-    if (data.password != data.rePass) {
+    if (data.password !== data.rePass) {
         return console.error('Passwords don\'t match');
     }
 
@@ -25,13 +20,40 @@ async function onSubmit(data) {
             body
         });
         const data = await response.json();
-        if (response.status == 200) {
+        if (response.status === 200) {
             sessionStorage.setItem('authToken', data.accessToken);
-            window.location.pathname = 'index.html';
+            document.getElementById('user').style.display = 'inline-block';
+            document.getElementById('guest').style.display = 'none';
+            showCatalog()
         } else {
             throw new Error(data.message);
         }
     } catch (err) {
         console.error(err.message);
     }
+}
+
+let main;
+let section;
+let setActiveNav
+
+export function setupRegister(mainTarget, sectionTarget, setActiveNavCb) {
+    main = mainTarget;
+    section = sectionTarget;
+    setActiveNav = setActiveNavCb;
+
+
+    const form = section.querySelector('form');
+
+    form.addEventListener('submit', (ev => {
+        ev.preventDefault();
+        const formData = new FormData(ev.target);
+        onSubmit([...formData.entries()].reduce((p, [k, v]) => Object.assign(p, {[k]: v}), {}));
+    }));
+}
+
+export async function showRegister() {
+    setActiveNav('registerLink')
+    main.innerHTML = '';
+    main.appendChild(section);
 }
