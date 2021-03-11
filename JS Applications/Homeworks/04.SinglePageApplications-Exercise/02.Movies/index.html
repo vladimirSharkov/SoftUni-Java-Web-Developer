@@ -8,10 +8,10 @@
     <link href="../static/css/site.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script type="module" src="./src/app.js"></script>
+    <script type="module" src="src/app.js"></script>
 </head>
 
-<body>
+
 <div class="container" id="container">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
         <a id="homeLink" class="navbar-brand text-light" href="#">Movies</a>
@@ -41,12 +41,9 @@
                 <p class="lead">Unlimited movies, TV shows, and more. Watch anywhere. Cancel anytime.</p>
             </div>
 
-
             <h1 class="text-center">Movies</h1>
 
-
-            <a id="creatLink" href="#" class="btn btn-warning ">Add Movie</a>
-
+            <a id="createLink" href="#" class="btn btn-warning ">Add Movie</a>
 
             <div class=" mt-3 ">
                 <div class="row d-flex d-wrap">
@@ -148,6 +145,7 @@
             <form class="text-center border border-light p-5" action="#" method="">
                 <h1>Edit Movie</h1>
                 <div class="form-group">
+                    <input type="hidden" name="id">
                     <label for="title">Movie Title</label>
                     <input type="text" class="form-control" placeholder="Movie Title" value="" name="title">
                 </div>
@@ -182,7 +180,7 @@
             <form class="text-center border border-light p-5" action="#" method="post">
                 <div class="form-group">
                     <label for="email">Email</label>
-                    <input type="text" class="form-control" placeholder="Email" name="email" value="">
+                    <input type="email" class="form-control" placeholder="Email" name="email" value="">
                 </div>
                 <div class="form-group">
                     <label for="password">Password</label>
@@ -199,6 +197,7 @@
             </form>
         </section>
     </div>
+
     <footer class="page-footer font-small">
         <div class="footer-copyright text-center py-3">© 2020
             <a href="#" class="text-dark">JS
@@ -207,5 +206,5 @@
     </footer>
 </div>
 
-</body>
+
 </html>
