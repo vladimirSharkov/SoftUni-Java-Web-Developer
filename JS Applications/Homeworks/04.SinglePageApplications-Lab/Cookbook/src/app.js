@@ -78,7 +78,7 @@ function main() {
             },
         });
         if (response.status === 200) {
-            sessionStorage.removeItem('authToken');
+
             setUserNav();
             showCatalog();
         } else {
