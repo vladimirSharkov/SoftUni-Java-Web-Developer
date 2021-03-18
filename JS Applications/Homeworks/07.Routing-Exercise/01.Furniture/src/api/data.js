@@ -16,7 +16,7 @@ export async function getItemById(id) {
 }
 
 export async function getMyFurniture() {
-    const userId = sessionStorage.getItem('UserId')
+    const userId = sessionStorage.getItem('userId')
     return await api.get(host + `/data/catalog?where=_ownerId%3D%22${userId}%22`)
 }
 
