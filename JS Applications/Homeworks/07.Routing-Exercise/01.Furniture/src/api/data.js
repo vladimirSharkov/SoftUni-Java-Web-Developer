@@ -7,8 +7,14 @@ export const login = api.login;
 export const register = api.register;
 export const logout = api.logout;
 
-export async function getFurniture() {
-    return await api.get(host + '/data/catalog')
+export async function getFurniture(searchParam) {
+
+    if (searchParam){
+        return await api.get(host + '/data/catalog?where=' +encodeURIComponent(`make LIKE "${searchParam}"`));
+    }else {
+        return await api.get(host + '/data/catalog')
+    }
+
 }
 
 export async function getItemById(id) {
