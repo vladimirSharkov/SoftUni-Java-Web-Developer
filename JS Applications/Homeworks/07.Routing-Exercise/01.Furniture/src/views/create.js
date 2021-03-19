@@ -1,7 +1,8 @@
 import {html} from "../node_modules/lit-html/lit-html.js"
 import {createItem} from '../api/data.js';
+import {notify,clear} from '../notification.js'
 
-const createTemplate = (onSubmit)=> html`
+const createTemplate = (onSubmit) => html`
     <div class="row space-top">
         <div class="col-md-12">
             <h1>Create New Furniture</h1>
@@ -41,7 +42,7 @@ const createTemplate = (onSubmit)=> html`
                     <label class="form-control-label" for="new-material">Material (optional)</label>
                     <input class="form-control" id="new-material" type="text" name="material">
                 </div>
-                <input type="submit" class="btn btn-primary" value="Create" />
+                <input type="submit" class="btn btn-primary" value="Create"/>
             </div>
         </div>
     </form>`;
@@ -63,8 +64,13 @@ export async function createPage(ctx) {
         const img = formData.get('img');
         const material = formData.get('material');
 
-        const data = {make, model, year, description, price, img, material}
-       await createItem(data);
+
+        const data = [...formData.entries()].reduce((a, [k, v]) => Object.assign(a, {[k]: v}));
+        if (Object.entries(data).filter(([k, v]) => k !== 'material').some(([k, v]) => v === '')) {
+            return notify('Pleas fill all mandatory fields!')
+        }
+        await createItem(data);
+        clear();
         ctx.page.redirect('/')
     }
 }
