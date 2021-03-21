@@ -6,6 +6,9 @@ import {homePage} from "./views/home.js";
 import {loginPage} from "./views/login.js";
 import {registerPage} from "./views/register.js";
 import {browsePage} from "./views/browse.js";
+import {createPage} from "./views/create.js";
+import {detailsPage} from "./views/details.js";
+import {editPage} from "./views/edit.js";
 
 const main = document.querySelector('main');
 
@@ -14,6 +17,9 @@ page('/index.html', renderMiddleware, homePage);
 page('/login', renderMiddleware, loginPage);
 page('/register', renderMiddleware, registerPage);
 page('/browse', renderMiddleware, browsePage);
+page('/create', renderMiddleware, createPage);
+page('/details/:id', renderMiddleware, detailsPage);
+page('/edit/:id', renderMiddleware, editPage);
 
 
 
