@@ -36,13 +36,13 @@ export async function loginPage(ctx) {
     async function onSubmit(event) {
         event.preventDefault();
 
-       const formData = new FormData(event.target);
-       const email = formData.get('email').trim();
-       const password = formData.get('password').trim();
+        const formData = new FormData(event.target);
+        const email = formData.get('email').trim();
+        const password = formData.get('password').trim();
 
-        await login(email,password);
-       ctx.setUserNav();
-       ctx.page.redirect('/')
+        await login(email, password);
+        ctx.setUserNav();
+        ctx.page.redirect('/')
 
     }
 }

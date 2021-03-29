@@ -22,10 +22,10 @@ page('/register', renderMiddleware, registerPage);
 
 
 document.getElementById('logoutBtn').addEventListener('click', async (ev) => {
-
+    debugger
     await logout();
     setUserNav();
-    page.redirect('/home')
+    page.redirect('/dashboard')
 });
 
 page.start()
@@ -36,8 +36,6 @@ function renderMiddleware(ctx, next) {
     ctx.setUserNav = setUserNav;
     next();
 }
-
-
 
 
 function setUserNav() {

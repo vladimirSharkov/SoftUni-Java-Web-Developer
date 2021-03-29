@@ -19,6 +19,9 @@ export async function detailsPage(ctx) {
     const id = ctx.params.id
     const item = await getItemById(id)
     const userId = sessionStorage.getItem('userId')
+    console.log(userId)
+    console.log(item._ownerId)
+    console.log(ctx)
     ctx.render(detailsTemplate(item, userId === item._ownerId, onDelete));
 
     async function onDelete(event) {

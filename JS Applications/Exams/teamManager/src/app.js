@@ -5,6 +5,7 @@ import {logout} from './api/data.js'
 import {homePage} from "./views/home.js";
 import {loginPage} from "./views/login.js";
 import {registerPage} from "./views/register.js";
+import {catalogPage} from "./views/catalog.js";
 
 
 const main = document.querySelector('main');
@@ -17,6 +18,7 @@ document.getElementById('logoutBtn').addEventListener('click',async ()=>{
 page('/', middle, homePage);
 page('/login', middle, loginPage);
 page('/register', middle, registerPage);
+page('/catalog', middle, catalogPage);
 
 
 setUserNav();

@@ -9,7 +9,7 @@ const homeTemplate = (isOwner) => html`
                 <p>Want to organize your peers? Create and manage a team for free.</p>
                 <p>Looking for a team to join? Browse our communities and find like-minded people!</p>
                 ${isOwner ? html`<a href="#" class="action cta">Browse Teams</a>`
-                        : html` <a href="#" class="action cta">Sign Up Now</a>`}
+                        : html` <a href="/login" class="action cta">Sign Up Now</a>`}
             </div>
         </article>
     </section>`;
