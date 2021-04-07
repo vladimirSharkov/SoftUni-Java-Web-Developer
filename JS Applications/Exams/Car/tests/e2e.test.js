@@ -446,9 +446,9 @@ describe('E2E tests', function () {
             expect(postData.brand).to.contains(data.brand + 'edit');
             expect(postData.model).to.contains(data.model + 'edit');
             expect(postData.description).to.contains(data.description + 'edit');
-            expect(postData.year).to.contains((data.year + 1).toString());
+            expect(postData.year).to.equal((data.year + 1));
             expect(postData.imageUrl).to.contains(data.imageUrl + 'edit');
-            expect(postData.price).to.contains((data.price + 1).toString());
+            expect(postData.price).to.equal((data.price + 1));
         });
     });
 
@@ -473,6 +473,8 @@ describe('E2E tests', function () {
             get([]);
 
             await page.click('text=My Listings');
+            await page.waitForTimeout(100);
+
 
             const visible = await page.isVisible('text=You haven\'t listed any cars yet');
             expect(visible).to.be.true;
@@ -483,6 +485,8 @@ describe('E2E tests', function () {
             get(mockData.catalog.slice(0,2));
 
             await page.click('text=My Listings');
+            await page.waitForTimeout(100);
+
 
             const titles = await page.$$eval('#my-listings .listing h2', t => t.map(s => s.textContent));
 

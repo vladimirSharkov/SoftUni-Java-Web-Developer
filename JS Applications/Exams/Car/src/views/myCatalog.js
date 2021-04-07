@@ -1,12 +1,17 @@
-import {getItems} from "../api/data.js";
 import {html} from '../../node_modules/lit-html/lit-html.js';
+import {getMyItems} from "../api/data.js";
 
-const catalogTemplate = (data) => html`
-    <section id="car-listings">
-        <h1>Car Listings</h1>
+
+const myTemplate = (data) => html`
+    <section id="my-listings">
+        <h1>My car listings</h1>
         <div class="listings">
-            ${data.length === 0 ? html`<p class="no-cars">No cars in database.</p>` :
-                    data.map(itemTemplate)}
+
+            <!-- Display all records -->
+            ${data.length === 0 ? html` <p class="no-cars"> You haven't listed any cars yet.</p>`
+                    : data.map(itemTemplate)}
+            <!-- Display if there are no records -->
+
         </div>
     </section>`;
 
@@ -27,8 +32,7 @@ const itemTemplate = (item) => html`
         </div>
     </div>`;
 
-
-export async function catalogPage(ctx) {
-    const data = await getItems()
-    ctx.render(catalogTemplate(data))
+export async function myPage(ctx) {
+    const data = await getMyItems()
+    ctx.render(myTemplate(data))
 }

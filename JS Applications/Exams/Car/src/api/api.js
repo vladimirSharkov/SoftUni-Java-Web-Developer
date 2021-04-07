@@ -57,21 +57,21 @@ export async function del(url) {
     return request(url, createOptions('delete'));
 }
 
-export async function login(email, password) {
-    const response = await post(settings.host + '/users/login', { email, password });
+export async function login(username, password) {
+    const response = await post(settings.host + '/users/login', { username, password });
 
     sessionStorage.setItem('authToken', response.accessToken);
-    sessionStorage.setItem('email', response.email);
+    sessionStorage.setItem('username', response.username);
     sessionStorage.setItem('userId', response._id);
 
     return response;
 }
 
-export async function register(email, password) {
-    const response = await post(settings.host + '/users/register', { email, password });
+export async function register(username, password) {
+    const response = await post(settings.host + '/users/register', { username, password });
 
     sessionStorage.setItem('authToken', response.accessToken);
-    sessionStorage.setItem('email', response.email);
+    sessionStorage.setItem('username', response.username);
     sessionStorage.setItem('userId', response._id);
 
     return response;
@@ -81,6 +81,6 @@ export async function logout() {
     const response = await get(settings.host + '/users/logout');
 
     sessionStorage.removeItem('authToken');
-    sessionStorage.removeItem('email');
+    sessionStorage.removeItem('username');
     sessionStorage.removeItem('userId');
 }
