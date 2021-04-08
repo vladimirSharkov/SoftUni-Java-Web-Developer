@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71520eaa-a1aa-4b49-b2b4-a5c78fc706e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/advanced.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/blog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/collections.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/cookbook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/forecaster.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/messenger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/phonebook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/api/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem01/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Topping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/src/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/src/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/Cookbook/src/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/Cookbook/src/create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/05.ArchitectureAndTesting-Exercise/03.SoftTerest/tests/e2e.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/05.ArchitectureAndTesting-Exercise/03.SoftTerest/tests/e2e.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/06.ClientSideRendering-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/06.ClientSideRendering-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qqKCUvApAAOw8eFbC28qAsQloc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71520eaa-a1aa-4b49-b2b4-a5c78fc706e8" name="Default Changelist" comment="" />
+      <created>1617801553824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617801553824</updated>
+      <workItem from="1617801555113" duration="3642000" />
+      <workItem from="1617805396778" duration="6601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
