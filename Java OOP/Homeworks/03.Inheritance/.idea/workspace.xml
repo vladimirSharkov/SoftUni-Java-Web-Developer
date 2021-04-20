@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fae8c2f2-6de0-44bc-a397-325d1b3d8cc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/advanced.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/blog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/bus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/collections.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/cookbook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/forecaster.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/messenger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/data/phonebook.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/server/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/api/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem01/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem02/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem03/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem04/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem04/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.Encapsulation/src/problem04/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem01/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem01/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Bear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Gorilla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Lizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Mammal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Reptile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem02/Snake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/BladeKnight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/DarkKnight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/DarkWizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/Elf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/Hero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/Knight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/MuseElf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/SoulMaster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem03/Wizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/CrossMotorcycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/FamilyCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/Motorcycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/RaceMotorcycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/SportCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem04/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Beverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Cake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/ColdBeverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Dessert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/HotBeverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/MainDish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Salmon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Soup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Starter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem05/Tea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Frog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Kitten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/03.Inheritance/problem06/Tomcat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem01/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Lizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/BladeKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/DarkKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/DarkWizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/MuseElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/SoulMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/CrossMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/FamilyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/RaceMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/ColdBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/HotBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/MainDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Soup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Kitten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/Tomcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.InterfacesAndAbstraction/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.InterfacesAndAbstraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.InterfacesAndAbstraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.InterfacesAndAbstraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/src/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/Cookbook3/src/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Lab/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/Cookbook/src/create.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/Cookbook/src/create.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/04.SinglePageApplications-Lab/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/05.ArchitectureAndTesting-Exercise/03.SoftTerest/tests/e2e.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/05.ArchitectureAndTesting-Exercise/03.SoftTerest/tests/e2e.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/06.ClientSideRendering-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/06.ClientSideRendering-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem01/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem02/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem03/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem03/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem04/Dough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem04/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/problem04/Topping.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qt8U0dxjSlHuiqSMHSQGsIoSzs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem03.Main" />
+      <module name="03.Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem06.Main" />
+      <module name="03.Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem01.Main" />
+      <module name="03.Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fae8c2f2-6de0-44bc-a397-325d1b3d8cc0" name="Default Changelist" comment="" />
+      <created>1617887539593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617887539593</updated>
+      <workItem from="1617887541895" duration="12120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem06/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

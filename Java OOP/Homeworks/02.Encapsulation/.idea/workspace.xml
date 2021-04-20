@@ -23,24 +23,6 @@
       <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/home.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/login.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/09.ExamPreparation/src/views/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem01/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem02/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem03/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem04/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem04/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem04/Topping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" afterDir="false" />
@@ -56,6 +38,7 @@
       <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,21 +75,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617801553824</updated>
       <workItem from="1617801555113" duration="3642000" />
-      <workItem from="1617805396778" duration="6601000" />
+      <workItem from="1617805396778" duration="7199000" />
     </task>
     <servers />
   </component>
