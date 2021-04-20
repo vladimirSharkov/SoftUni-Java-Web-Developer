@@ -23,223 +23,54 @@
       <change afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/09.ExamPreparation/src/views/home.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/09.ExamPreparation/src/views/login.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/09.ExamPreparation/src/views/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.StacksAndQueues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/01.StacksAndQueues/problem01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/02.MultidimensionalArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/out/production/02.MultidimensionalArrays/problem01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02.MultidimensionalArrays/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/03. SetsAndMapsAdvanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem01/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem02/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem03/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem04/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem04/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/02.Encapsulation/src/problem04/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/03.Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem01/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem01/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Bear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Gorilla.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Lizard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Mammal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Reptile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem02/Snake.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/BladeKnight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/DarkKnight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/DarkWizard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/Elf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/Knight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/MuseElf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/SoulMaster.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem03/Wizard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/CrossMotorcycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/FamilyCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/Motorcycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/RaceMotorcycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/SportCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem04/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Beverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Cake.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/ColdBeverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Dessert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Food.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/HotBeverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/MainDish.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Salmon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Soup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Starter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem05/Tea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Frog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Kitten.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/out/production/03.Inheritance/problem06/Tomcat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem01/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Lizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem02/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/BladeKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/DarkKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/DarkWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/MuseElf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/SoulMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem03/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/CrossMotorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/FamilyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/RaceMotorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/SportCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem04/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/ColdBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Dessert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/HotBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/MainDish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Soup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem05/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Kitten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/03.Inheritance/src/problem06/Tomcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/04.InterfacesAndAbstraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/out/production/04.InterfacesAndAbstraction/problem01/Citizen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/out/production/04.InterfacesAndAbstraction/problem01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/out/production/04.InterfacesAndAbstraction/problem01/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem01/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem02/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem02/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem02/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem03/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem03/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem03/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem03/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem03/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem04/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem04/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem04/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem04/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem04/Rebel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem05/Browsable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem05/Callable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/04.InterfacesAndAbstraction/src/problem05/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/05.Polymorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/out/production/05.Polymorphism/problem01/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/out/production/05.Polymorphism/problem01/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/out/production/05.Polymorphism/problem01/Truck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/out/production/05.Polymorphism/problem01/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/out/production/05.Polymorphism/problem01/VehicleImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem01/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem01/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem01/VehicleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem02/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem02/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem02/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/src/problem02/VehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/01.StacksAndQueues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/out/production/01.StacksAndQueues/problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/out/production/01.StacksAndQueues/problem02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/out/production/01.StacksAndQueues/problem03/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/out/production/01.StacksAndQueues/problem04/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/src/problem01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/src/problem02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/src/problem03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/01.StacksAndQueues/src/problem04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/02.MultidimensionalArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/out/production/02.MultidimensionalArrays/problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/out/production/02.MultidimensionalArrays/problem02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/out/production/02.MultidimensionalArrays/problem03/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/src/problem01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/src/problem02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/02.MultidimensionalArrays/src/problem03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/03. SetsAndMapsAdvanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem03/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem04/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem05/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem06/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem07/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem08/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworks/03. SetsAndMapsAdvanced/src/problem08/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/02AsynchronousProgramming-Lab/Cookbook/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/03.RemoteDataAndAuthentication-Exercise/05.FisherGame/register.js" afterDir="false" />
@@ -255,24 +86,43 @@
       <change beforePath="$PROJECT_DIR$/../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/07.Routing-Exercise/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/api/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS Applications/Homeworks/08.ModularApplications-Exercise/01.Team-Manager/src/views/browse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/Encapsulation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem01/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem02/Chicken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem03/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem03/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem03/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem04/Dough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem04/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem04/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/Encapsulation/src/problem04/Topping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.StacksAndQueues.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01.StacksAndQueues/problem01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/02.MultidimensionalArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/out/production/02.MultidimensionalArrays/problem01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/src/problem01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/src/problem02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.MultidimensionalArrays/src/problem03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/03. SetsAndMapsAdvanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/out/production/03. SetsAndMapsAdvanced/problem01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem06/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem07/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. SetsAndMapsAdvanced/src/problem08/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP/Homeworks/05.Polymorphism/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,6 +154,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -391,7 +242,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618405873050</updated>
-      <workItem from="1618405874784" duration="5356000" />
+      <workItem from="1618405874784" duration="5478000" />
     </task>
     <servers />
   </component>
@@ -400,16 +251,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/problem04/Main.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
