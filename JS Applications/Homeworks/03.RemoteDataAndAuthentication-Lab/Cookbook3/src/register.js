@@ -26,5 +26,5 @@ async function onRegisterSubmit(event) {
     const data = await response.json();
     console.log(data)
     sessionStorage.setItem('userToken', data.accessToken);
-    window.location.pathname = "index.html";
+    window.location.pathname = "indexDem.html";
 }

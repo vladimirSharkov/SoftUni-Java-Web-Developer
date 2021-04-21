@@ -30,7 +30,7 @@ async function onRegister(event) {
 
         const data = await response.json();
         sessionStorage.setItem('userToken', data.accessToken);
-        window.location.pathname = 'index.html'
+        window.location.pathname = 'indexDem.html'
     }else if (event.target.querySelector('button').textContent === 'Login'){
         event.preventDefault();
         const formData = new FormData(event.target);
@@ -50,6 +50,6 @@ async function onRegister(event) {
 
         const data = await response.json();
         sessionStorage.setItem('userToken',data.accessToken);
-        window.location.pathname = 'index.html'
+        window.location.pathname = 'indexDem.html'
     }
 }

@@ -10,7 +10,7 @@ async function onSubmit(data) {
 
     const token = sessionStorage.getItem('authToken');
     if (token == null) {
-        return window.location.pathname = 'index.html';
+        return window.location.pathname = 'indexDem.html';
     }
 
     try {

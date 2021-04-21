@@ -3,7 +3,7 @@ const { chromium } = require('playwright-chromium');
 const { expect } = require('chai');
 
 const host = 'http://localhost:3000'; // Application host (NOT service host - that can be anything)
-const DEBUG = false;
+const DEBUG = true;
 
 const mockData = require('./mock-data.json');
 const endpoints = {
@@ -75,7 +75,7 @@ describe('E2E tests', function () {
     });
 
     describe('Catalog', () => {
-        it('show most recent ideas', async () => {
+        it.only('show most recent ideas', async () => {
             await page.goto(host);
             await page.click('text=Dashboard');
             await page.waitForSelector('#dashboard-holder');
@@ -87,7 +87,7 @@ describe('E2E tests', function () {
             expect(titles[2]).to.contains('333333');
         });
 
-        it('show idea details', async () => {
+        it.only('show idea details', async () => {
             await page.goto(host);
             await page.click('text=Dashboard');
             await page.waitForSelector('#dashboard-holder');
@@ -102,7 +102,7 @@ describe('E2E tests', function () {
             expect(img).to.equal(mockData.details.img);
         });
 
-        it('guest does NOT see delete button', async () => {
+        it.only('guest does NOT see delete button', async () => {
             await page.goto(host);
             await page.click('text=Dashboard');
             await page.waitForSelector('#dashboard-holder');

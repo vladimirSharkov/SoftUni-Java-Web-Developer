@@ -27,3 +27,7 @@ export async function editTeam(id, team) {
 export async function deleteTeam(id) {
     return await api.del(host + '/data/teams/' + id)
 }
+
+export async function getTeamCount() {
+    return await api.get(host+ '/data/teams?count')
+}

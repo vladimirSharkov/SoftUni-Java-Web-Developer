@@ -19,5 +19,5 @@ async function onLogin(event) {
 
     const data = await response.json();
     sessionStorage.setItem('userToken',data.accessToken);
-    window.location.pathname = 'index.html'
+    window.location.pathname = 'indexDem.html'
 }
